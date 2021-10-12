@@ -1,1 +1,3 @@
 # CodingStudy
+
+## Solving Algorithms!
